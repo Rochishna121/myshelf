@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Venkata%20Rochishna&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Venkata+Rochishna;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=💻+Full-Stack+Developer;☁️+Cloud+%26+DevOps+Enthusiast;🚀+Building+Projects+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rochishna121&theme=tokyonight" />
 </p>
 
 <h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Enthusiast</h3>
@@ -67,6 +71,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rochishna121&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rochishna121&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochishna121&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
